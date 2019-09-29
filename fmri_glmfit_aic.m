@@ -2,9 +2,9 @@
 % GLM analysis with the autoregression noise autocorrelation model (AR(p))
 % and the AICc order selection
 % (This code is the simplified version of fmri_glmfit_arp.m)
-% (reference: Luo Q, Misaki M, Mulyana B, Wong C-K, Bodurka J.
-%  Improved Autoregressive Model for Correction of Noise Serial Correlation
-%  in Fast fMRI. NeuroImage (under review))
+% (reference: Luo Q, Misaki M, Mulyana B, Wong C-K, Bodurka J (2018).
+%  Optimization of Serial Correlation Correction Methods Based on Autoregressive
+%  Model in Fast fMRI. Annual Meeting of ISMRM, Paris)
 % (AFNI matlab package required)
 % 
 % imgfn: image filename (AFNI .BRIK format) 
